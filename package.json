@@ -1,0 +1,36 @@
+{
+  "name": "react-native-keep-screen-awake",
+  "version": "0.1.0",
+  "description": "A customizable React Native package that provides an intuitive way to manage screen awake functionality within your app. With this package, you can easily control when the screen stays awake, preventing it from dimming or turning off during periods of inactivity.",
+  "main": "lution to maintain an awake screen state.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/Bowlerr/react-native-keep-screen-awake.git",
+  "keywords": [
+    "[\"react\"",
+    "\"react-native\"",
+    "\"screen\"",
+    "\"awake\"",
+    "\"keep\"",
+    "\"power\"",
+    "\"management\"]"
+  ],
+  "author": "Bowlerr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bowlerr/react-native-keep-screen-awake/issues"
+  },
+  "homepage": "https://github.com/Bowlerr/react-native-keep-screen-awake#readme",
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.2"
+  },
+  "private": false,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.72.4"
+  }
+}
